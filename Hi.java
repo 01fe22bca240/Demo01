@@ -8,6 +8,9 @@ public class Hi {
         System.out.println("Hello World from main().");
         Hi h = new Hi();
         h.add(10,20);
+
+        Hey H = new Hey();
+        H.sub(10,20);
     }
 
 }
